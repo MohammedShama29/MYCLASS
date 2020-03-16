@@ -1,0 +1,7 @@
+C:\Users\mohammed.shama\MyClassLibrary\bin\Debug\netcoreapp2.1\MyClassLibrary.deps.json
+C:\Users\mohammed.shama\MyClassLibrary\bin\Debug\netcoreapp2.1\MyClassLibrary.dll
+C:\Users\mohammed.shama\MyClassLibrary\bin\Debug\netcoreapp2.1\MyClassLibrary.pdb
+C:\Users\mohammed.shama\MyClassLibrary\obj\Debug\netcoreapp2.1\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\mohammed.shama\MyClassLibrary\obj\Debug\netcoreapp2.1\MyClassLibrary.AssemblyInfo.cs
+C:\Users\mohammed.shama\MyClassLibrary\obj\Debug\netcoreapp2.1\MyClassLibrary.dll
+C:\Users\mohammed.shama\MyClassLibrary\obj\Debug\netcoreapp2.1\MyClassLibrary.pdb
