@@ -21,7 +21,7 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'pack'
-    packagesToPack: 'MyClassLibrary.csproj'
+    packagesToPack: 'MyClassLibrary/*.csproj'
     nobuild: true
     versioningScheme: 'off'
 - task: DotNetCoreCLI@2
